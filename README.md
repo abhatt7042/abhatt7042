@@ -45,7 +45,7 @@ You can check out my thoughts and experiences here: [My Blog](https://ankiiwrite
 ---
 
 ## 📬 Contact
-- LinkedIn: [linkedin.com/in/ankita](https://www.linkedin.com/in/ankita)  
+- LinkedIn: [linkedin.com/in/ankita](https://www.linkedin.com/in/ankitabhatt/)
 - Email: [ankitabhatt0313@gmail.com](mailto:ankitabhatt0313@gmail.com)  
 
 ---
