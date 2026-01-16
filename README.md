@@ -17,7 +17,7 @@ Whether you’re a fellow engineer or QA enthusiast, you’ll find a combination
 
 ### Python
 - Started with **basic syntax, loops, and functions**  
-- Exploring **object-oriented programming** and **data structures**
+- Exploring **data structures** in depth
 ### Aiming to-do next
 - Build **automation scripts for QA tasks**  
 - Integrate Python with **QA and Performance tools**  
