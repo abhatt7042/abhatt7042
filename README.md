@@ -49,6 +49,3 @@ You can check out my thoughts and experiences here: [My Blog](https://ankiiwrite
 - Email: [ankitabhatt0313@gmail.com](mailto:ankitabhatt0313@gmail.com)  
 
 ---
-
-## 📂 Repo Structure
-
